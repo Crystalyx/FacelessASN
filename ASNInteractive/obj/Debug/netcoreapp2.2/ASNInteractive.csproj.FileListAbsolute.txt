@@ -1,0 +1,14 @@
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/bin/Debug/netcoreapp2.2/ASNInteractive.deps.json
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/bin/Debug/netcoreapp2.2/ASNInteractive.runtimeconfig.json
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/bin/Debug/netcoreapp2.2/ASNInteractive.runtimeconfig.dev.json
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/bin/Debug/netcoreapp2.2/ASNInteractive.dll
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/bin/Debug/netcoreapp2.2/ASNInteractive.pdb
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/bin/Debug/netcoreapp2.2/ASNCore.dll
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/bin/Debug/netcoreapp2.2/ASNCore.pdb
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/obj/Debug/netcoreapp2.2/ASNInteractive.csprojAssemblyReference.cache
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/obj/Debug/netcoreapp2.2/ASNInteractive.csproj.CoreCompileInputs.cache
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/obj/Debug/netcoreapp2.2/ASNInteractive.AssemblyInfoInputs.cache
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/obj/Debug/netcoreapp2.2/ASNInteractive.AssemblyInfo.cs
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/obj/Debug/netcoreapp2.2/ASNInteractive.csproj.CopyComplete
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/obj/Debug/netcoreapp2.2/ASNInteractive.dll
+/home/lord_faceless/RiderProjects/FacelessASN/ASNInteractive/obj/Debug/netcoreapp2.2/ASNInteractive.pdb

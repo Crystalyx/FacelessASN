@@ -4,5 +4,6 @@ namespace FacelessASN
 {
     public class Core
     {
+        
     }
 }

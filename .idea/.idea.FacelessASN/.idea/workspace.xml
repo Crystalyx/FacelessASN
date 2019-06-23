@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3193a455-8680-4864-ac2e-6341d76f9604" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ASNCore/Bytes/ByteArrayHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacelessASN/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FacelessASN/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacelessASN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FacelessASN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASNCore/Core.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ASNCore/Core.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FacelessASN.sln" beforeDir="false" afterPath="$PROJECT_DIR$/FacelessASN.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +17,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ASNCore/Core.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ASNCore/Bytes/ByteArrayHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <marker date="1561221878999" expanded="true" signature="6:85" ph="..." />
+                <marker date="1561221878999" expanded="true" signature="133:1874" ph="{...}" />
+                <marker date="1561221878999" expanded="true" signature="163:1872" ph="{...}" />
+                <marker date="1561221878999" expanded="true" signature="276:427" ph="///  ... " />
+                <marker date="1561221878999" expanded="true" signature="462:1045" ph="{...}" />
+                <marker date="1561221878999" expanded="true" signature="764:1035" ph="{...}" />
+                <marker date="1561221878999" expanded="true" signature="1055:1170" ph="///  ... " />
+                <marker date="1561221878999" expanded="true" signature="1203:1866" ph="{...}" />
+                <marker date="1561221878999" expanded="true" signature="1393:1816" ph="{...}" />
+                <marker date="1561221878999" expanded="true" signature="1536:1670" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ASNInteractive/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+              <folding>
+                <marker date="1561221948053" expanded="true" signature="6:38" ph="..." />
+                <marker date="1561221948053" expanded="true" signature="64:251" ph="{...}" />
+                <marker date="1561221948053" expanded="true" signature="84:249" ph="{...}" />
+                <marker date="1561221948053" expanded="true" signature="130:243" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ASNCore/Core.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding>
+                <marker date="1561062544079" expanded="true" signature="36:83" ph="{...}" />
+                <marker date="1561062544079" expanded="true" signature="60:81" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/e9/5fb38f7d/Buffer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -28,20 +82,29 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ASNCore/Core.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ASNCore/Bytes/ByteArrayHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/e9/5fb38f7d/Buffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ASNInteractive/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FacelessASN/Program.cs" />
         <option value="$PROJECT_DIR$/FacelessASN/Class1.cs" />
+        <option value="$PROJECT_DIR$/ASNCore/ByteUtils.cs" />
+        <option value="$PROJECT_DIR$/ASNCore/Core.cs" />
+        <option value="$PROJECT_DIR$/ASNCore/Bytes/ByteArrayHandler.cs" />
+        <option value="$PROJECT_DIR$/ASNInteractive/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1306" />
+    <option name="x" value="1452" />
     <option name="y" value="560" />
-    <option name="width" value="1344" />
-    <option name="height" value="768" />
+    <option name="width" value="882" />
+    <option name="height" value="508" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -57,6 +120,28 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="FacelessASN" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FacelessASN" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ASNCore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FacelessASN" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ASNCore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bytes" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FacelessASN" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ASNInteractive" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FacelessASN" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ASNInteractive" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -70,6 +155,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,7 +169,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.ASNInteractive">
+    <configuration name="ASNInteractive" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ASNInteractive/bin/Debug/netcoreapp2.2/ASNInteractive.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ASNInteractive" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ASNInteractive/ASNInteractive.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -102,6 +206,11 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.ASNInteractive" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -113,12 +222,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561041650494</updated>
-      <workItem from="1561041659302" duration="1853000" />
+      <workItem from="1561041659302" duration="10347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1853000" />
+    <option name="totallyTimeSpent" value="10347000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,7 +244,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496124" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -144,9 +253,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.3296875" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2375" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,10 +288,60 @@
     <entry file="file://$PROJECT_DIR$/FacelessASN/Program.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/ASNCore/ByteUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ASNCore/Core.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <marker date="1561062544079" expanded="true" signature="36:83" ph="{...}" />
+            <marker date="1561062544079" expanded="true" signature="60:81" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/e9/5fb38f7d/Buffer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASNCore/Bytes/ByteArrayHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <marker date="1561221878999" expanded="true" signature="6:85" ph="..." />
+            <marker date="1561221878999" expanded="true" signature="133:1874" ph="{...}" />
+            <marker date="1561221878999" expanded="true" signature="163:1872" ph="{...}" />
+            <marker date="1561221878999" expanded="true" signature="276:427" ph="///  ... " />
+            <marker date="1561221878999" expanded="true" signature="462:1045" ph="{...}" />
+            <marker date="1561221878999" expanded="true" signature="764:1035" ph="{...}" />
+            <marker date="1561221878999" expanded="true" signature="1055:1170" ph="///  ... " />
+            <marker date="1561221878999" expanded="true" signature="1203:1866" ph="{...}" />
+            <marker date="1561221878999" expanded="true" signature="1393:1816" ph="{...}" />
+            <marker date="1561221878999" expanded="true" signature="1536:1670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASNInteractive/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <marker date="1561221948053" expanded="true" signature="6:38" ph="..." />
+            <marker date="1561221948053" expanded="true" signature="64:251" ph="{...}" />
+            <marker date="1561221948053" expanded="true" signature="84:249" ph="{...}" />
+            <marker date="1561221948053" expanded="true" signature="130:243" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

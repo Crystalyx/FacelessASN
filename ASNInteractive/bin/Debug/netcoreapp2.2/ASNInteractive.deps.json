@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ASNInteractive/1.0.0": {
+        "dependencies": {
+          "ASNCore": "1.0.0"
+        },
+        "runtime": {
+          "ASNInteractive.dll": {}
+        }
+      },
+      "ASNCore/1.0.0": {
+        "runtime": {
+          "ASNCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASNInteractive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ASNCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

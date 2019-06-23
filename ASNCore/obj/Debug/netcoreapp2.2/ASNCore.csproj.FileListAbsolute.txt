@@ -1,0 +1,9 @@
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.csprojAssemblyReference.cache
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.csproj.CoreCompileInputs.cache
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.AssemblyInfoInputs.cache
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.AssemblyInfo.cs
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.dll
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/obj/Debug/netcoreapp2.2/ASNCore.pdb
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/bin/Debug/netcoreapp2.2/ASNCore.deps.json
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/bin/Debug/netcoreapp2.2/ASNCore.dll
+/home/lord_faceless/RiderProjects/FacelessASN/ASNCore/bin/Debug/netcoreapp2.2/ASNCore.pdb

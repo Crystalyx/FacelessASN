@@ -6,12 +6,27 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="ASNCore" t="IncludeRecursive">
         <e p="ASNCore.csproj" t="IncludeRecursive" />
+        <e p="Bytes" t="Include">
+          <e p="ByteArrayHandler.cs" t="Include" />
+        </e>
         <e p="Core.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
               <e p="ASNCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ASNInteractive" t="IncludeRecursive">
+        <e p="ASNInteractive.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ASNInteractive.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
